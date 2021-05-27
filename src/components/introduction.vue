@@ -11,7 +11,7 @@
         <div class="row text-center">
           <div class="col-md-6" id="aboutP">
             <h4 class="introduction-heading">About me</h4>
-            <p class="text-muted" >I am a dedicated, passionate, goal-driven, team-player, hardworking, trustworthy, flexible, motivated progressive thinker. I take pride in my personal appearance also in my work. I enjoy working with new technologies with an effective mindset when it comes to problem-solving. Enthusiastic and eager to contribute to team success through hard work, attention to detail and excellent organisational skills. A clear understanding of web development and programming and training in becoming a high achieving developer. Motivated to learn, grow and excel in the IT development industry</p>
+            <p class="text-muted" >I am a dedicated, passionate, goal-driven, team player, hardworking, trustworthy, flexible, motivated progressive thinker. I take pride in my personal appearance also in my work. I enjoy working with new technologies with an effective mindset when it comes to problem-solving. Enthusiastic and eager to contribute to team success through hard work, attention to detail, and excellent organizational skills. A clear understanding of web development and programming and training in becoming a high-achieving developer. Motivated to learn, grow and excel in the IT development industry</p>
           </div>
 
           <div class="col-md-6" id="personalD">

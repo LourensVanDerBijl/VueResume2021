@@ -15,7 +15,7 @@
               <a class="nav-link js-scroll-trigger" href="#introduction">Introduction</a>
             </li>
             <li class="nav-item">
-              <a class="nav-link js-scroll-trigger" href="#Work_experience">Work Experiece</a>
+              <a class="nav-link js-scroll-trigger" href="#Work_experience">Work Experience</a>
             </li>
             <li class="nav-item">
               <a class="nav-link js-scroll-trigger" href="#Academic">Academic records</a>

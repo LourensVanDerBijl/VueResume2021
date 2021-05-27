@@ -137,7 +137,7 @@
                  Critical and logical mindset with a problem-solving attitude.<br>
                  Great time management skills.<br>
                  I am self-motivated.<br>
-                 I have Excellent verbal and written communication skills.<br>
+                 I have excellent verbal and written communication skills.<br>
                  I am a high achiever and fast learner.<br>
                  Ability to multitask.<br>
                  Team player but also a successful individual employee.<br>
@@ -182,9 +182,9 @@
                       <li>To be employed by a company that can provide stability.</li>
                       <li>To be part of a developer team that can help me achieve results in my career path.</li>
                       <li>To expand my knowledge and experience in the IT development industry.</li>
-                      <li>To futher my studies in software development.</li>
-                      <li><br></li>
-                      <li><b>To one day become a excellent full-stack developer.</b></li>
+                      <li>To further my studies in software development.</li>
+                      <br>
+                      <li><b>To one day become an excellent full-stack developer.</b></li>
                     </ul>
                      </p>
                  <br><br>
@@ -218,7 +218,7 @@
                     083 323 3964 <a class="years">  (Lourens Van Der Bijl work)</a>
 
                      <br><br>
-                    <h4 class="display-6">Aditional Number:</h4>
+                    <h4 class="display-6">Additional Number:</h4>
                     076 521 8036 <a class="years">  (Cindy Van Der Bijl)</a>
 
                      <br><br>
@@ -254,10 +254,10 @@
                    This Web profile was developed by Louis Lourens Van Der Bijl<br><br>
                    The intention of this development was to:
                    <ul class="goals">
-                     <li>Enhance career opertunity and growth</li>
-                     <li>Demotrate some of my development and designing skills</li>
+                     <li>Enhance career opportunity and growth</li>
+                     <li>Demonstrate some of my development and designing skills</li>
                      <li>Provide employers easy access to my information</li>
-                     <li>Provide a User experience to any one who read this profile</li>
+                     <li>Provide a User experience to anyone who read this profile</li>
                    </ul>
                    <br>
                    <br>

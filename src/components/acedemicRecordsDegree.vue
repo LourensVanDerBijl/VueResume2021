@@ -4,7 +4,7 @@
       <div class="container">
         <div class="row">
           <div class="col-lg-12 text-center">
-            <h2 class="section-heading text-uppercase">Acedemic Records</h2>
+            <h2 class="section-heading text-uppercase">Academic Records</h2>
             <h3 class="section-subheading text-muted">Bachelor's degree of science in information technology<br> Click on image to view results</h3>
           </div>
         </div>
@@ -139,8 +139,8 @@
 
 
             <div class="col-lg-12 text-center">
-            <h2 class="section-heading text-uppercase">Acedemic Records</h2>
-            <h3 class="section-subheading text-muted">SOLOLEARN non Credited online learning<br> Click on image to view results</h3>
+            <h2 class="section-heading text-uppercase">Academic Records</h2>
+            <h3 class="section-subheading text-muted">SOLOLEARN non accredited online learning<br> Click on image to view results</h3>
           </div>
 
             <!--SoloLearn: HTML Fundamentals Model 7 -->
