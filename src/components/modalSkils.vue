@@ -10,7 +10,7 @@
               <div class="col-lg-8 mx-auto">
                 <div class="modal-body">
                   <!-- Details Go Here -->
-                  <h2 class="display-2">CODING EXPERISE<br></h2>
+                  <h2 class="display-2">CODING EXPERTISE<br></h2>
                   <div class="row">
                     <div class="col-sm-4">
                       <div class="align-left">
@@ -143,8 +143,8 @@
                  Team player but also a successful individual employee.<br>
                  Great team leading abilities.<br>
                  I am creative.<br>
-                 I can take accountability for my acctions.<br>
-                 I am aproacheble and helpfull.<br>
+                 I can take accountability for my actions.<br>
+                 I am approachable and helpfull.<br>
                  I value growth, I put achievements above effort.<br></p>
                  
 
@@ -165,7 +165,7 @@
 
 
               <!-- Modal 18 -->
-      <!--Personal Skills -->
+      <!--GOALS -->
     <div class="portfolio-modal modal fade" id="portfolioModal18" tabindex="-1" role="dialog" aria-hidden="true">
       <div class="modal-dialog">
         <div class="modal-content">
@@ -178,7 +178,7 @@
                   <h4 class="display-6">My goals are:</h4>
                   <p class="item-intro text-muted">
                     <ul class="goals">
-                      <li>To be employed by a company that can provide opertunity and growth.</li>
+                      <li>To be employed by a company that can provide opportunity and growth.</li>
                       <li>To be employed by a company that can provide stability.</li>
                       <li>To be part of a developer team that can help me achieve results in my career path.</li>
                       <li>To expand my knowledge and experience in the IT development industry.</li>

@@ -21,7 +21,7 @@
               <a class="nav-link js-scroll-trigger" href="#Academic">Academic records</a>
             </li>
             <li class="nav-item">
-              <a class="nav-link js-scroll-trigger" href="#Atributes">Atributes and skills</a>
+              <a class="nav-link js-scroll-trigger" href="#Atributes">Attributes and skills</a>
             </li>
             <li class="nav-item">
               <a class="nav-link js-scroll-trigger" href="#contact">Contact</a>
@@ -35,8 +35,8 @@
     <header class="masthead">
       <div class="container">
         <div class="intro-text">
-          <div class="intro-lead-in">ONLINE PROFILE OF LOURENS VAN DER BIJL!</div>
-          <div class="intro-heading text-uppercase">Junior Developer</div>
+          <div class="intro-lead-in"><a class="headerName">ONLINE PROFILE OF LOURENS VAN DER BIJL!</a></div>
+          <div class="intro-heading text-uppercase"><a class="headerName">Junior Developer</a></div>
           <a class="btn btn-primary btn-xl text-uppercase js-scroll-trigger" href="#introduction">Tell Me More</a>
         </div>
       </div>
@@ -75,7 +75,7 @@
           <div class="col-md-4">
             <ul class="list-inline social-buttons">
               <li class="list-inline-item">
-                <a href="src/assets/results/Lourens Resume 2021.pdf" download>
+                <a href="results/Lourens Resume 2021.pdf" download>
                   CV
                 </a>
               </li>

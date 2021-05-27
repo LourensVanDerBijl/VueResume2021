@@ -271,7 +271,13 @@ header.masthead {
 
 header.masthead .intro-text {
     padding-top: 150px;
-    padding-bottom: 100px
+    padding-bottom: 100px;
+}
+
+.headerName {
+    background-color: #55555581;
+    border-radius: 15px;
+    padding: 5px;
 }
 
 header.masthead .intro-text .intro-lead-in {
