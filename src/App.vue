@@ -38,8 +38,9 @@
           <div class="headerName">
           <div class="intro-lead-in">ONLINE PROFILE OF LOURENS VAN DER BIJL!</div>
           <div class="intro-heading text-uppercase">Junior Developer</div>
-          </div>
+          
           <a class="btn btn-primary btn-xl text-uppercase js-scroll-trigger" href="#introduction">Tell Me More</a>
+          </div>
         </div>
       </div>
     </header>
