@@ -1,4 +1,137 @@
 <template>
+<!-- Modal 29 -->
+      <!-- NQF level 7 semester1-->
+    <div class="portfolio-modal modal fade" id="portfolioModal29" tabindex="-1" role="dialog" aria-hidden="true">
+      <div class="modal-dialog">
+        <div class="modal-content">
+          <div class="container">
+            <div class="row">
+              <div class="col-lg-8 mx-auto">
+                <div class="modal-body">
+                  <!-- Details Go Here -->
+                  <h2 class="display-2">NQF Level 7</h2>
+                  <p class="item-intro text-muted">Year:3 - Semester:1.</p>
+                  
+                   
+                        <div class="row">
+                            <div class="col-lg-6">
+                                <br><br>
+                                <h4 class="display-6">Mobile App Development 700<br>(BSCMAD700)</h4>
+                                <ul class="text-left">
+                                    <li>Intorduction to Mobile App Development.</li>
+                                    <li>Andriod Studio.</li>
+                                    <li>App controll and behavior.</li>
+                                    <li>Preferences, files and databases.</li>
+                                    <li>Google components, maps, locations, and adaptors.</li>
+                                    <li>Mobile sensors, managers, and betery monitoring.</li>
+                                    <li>Introduction to Xcode, and testing.</li>
+                                    <li>Monetizing apps.</li>
+                                    <li>Publishing apps.</li>
+                                </ul>
+                                
+                            </div>
+                            <br><br>
+
+                            <div class="col-lg-6 ">
+                                <br><br>
+                                <h4 class="display-6">Cyber Security 700<br> (BSCCBS700)</h4>
+                                <ul class="text-left">
+                                    <li>Best practices and standards.</li>
+                                    <li>Introduction to ISO/IEC27000, NIST cyber framework, and COBIT/COBIT5.</li>
+                                    <li>ITU-T Security documents.</li>
+                                    <li>Security governance.</li>
+                                    <li>Information risk assesments.</li>
+                                    <li>Security management and policies.</li>
+                                    <li>Cybersecurity functions, People management and Information management.</li>
+                                    <li>VPN and IP security.</li>
+                                    <li>Cyber event loging and management.</li>
+                                    <li>Threat Intelligence.</li>
+                                    <li>Security assesment, monitoring and improvement.</li>
+                                    
+                                </ul>
+                                
+                            </div>
+                            
+
+                            
+                            <br><br>
+
+                            
+
+                            <div class="col-lg-6 text-center">
+                                <br><br>
+                                <h4 class="display-6">IT Project Management 700 <br> (BSCIPM700)</h4>
+                                <ul class="text-left">
+                                    <li>Introduction to Project management</li>
+                                    <li>Project management and information technlogy context.</li>
+                                    <li>Project Management Process Groups.</li>
+                                    <li>Mapping process groups to knowledge areas.</li>
+                                    <li>Developing an IT project management methodology.</li>
+                                    <li>Project Integration management.</li>
+                                    <li>Project scope management.</li>
+                                    <li>WBS work breakdown structure.</li>
+                                    <li>Project schedule management.</li>
+                                    <li>Project cost management.</li>
+                                    <li>Project quality and risk management.</li>
+                                    <li>Project resource management.</li>
+                                    <li>Project comunication management.</li>
+                                    <li>Project procurement management.</li>
+                                </ul>
+                                
+                            </div>
+                            <br><br>
+
+                            <div class="col-lg-6 text-center">
+                                <br><br>
+                                <h4 class="display-6">Programming 731 <br>  (BSCPRO731)</h4>
+                                <ul class="text-left">
+                                    <li>Java and object oriented programing Introduction.</li>
+                                    <li>Data types, variables and arrays.</li>
+                                    <li>Operators and control structures.</li>
+                                    <li>classes and methods.</li>
+                                    <li>Inheritance and polymorphism.</li>
+                                    <li>Applets and multithread programming.</li>
+                                    <li>Grapical User Interface (GUI).</li>
+                                </ul>
+                                
+                            </div>
+                            <div class="col-lg-6 text-center">
+                                <br><br>
+                                <h4 class="display-6">Programming 741 <br>  (BSCPRO741)</h4>
+                                <ul class="text-left">
+                                    <li>C# fundelmentals.</li>
+                                    <li>Classes, structs and objects.</li>
+                                    <li>Access modifiers, and contructors.</li>
+                                    <li>Inheritance, polymorphism and interface.</li>
+                                    <li>Arrays, indexes and collections.</li>
+                                    <li>Exception Handling.</li>
+                                    <li>Delegates and Events.</li>
+                                    <li>Databases and connections.</li>
+                                    <li>File handling.</li>
+                                    <li>Multicasting.</li>
+                                </ul>
+                            </div>
+                        </div>
+                   
+                  
+                  
+                  <button class="btn btn-danger" data-dismiss="modal" type="button">
+                    Close Result</button>
+                    
+                </div>
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+
+
+
+
+
+
+
       <!-- Modal 26 -->
       <!-- NQF level 5 semester2-->
     <div class="portfolio-modal modal fade" id="portfolioModal26" tabindex="-1" role="dialog" aria-hidden="true">

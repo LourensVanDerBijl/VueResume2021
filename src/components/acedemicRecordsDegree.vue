@@ -10,9 +10,10 @@
         </div>
         <div class="row">
 
+            
+            
             <!--year 1 semester 1-->
             <!--Model 1-->
-            
             <div class="col-md-4 col-sm-6 portfolio-item" id="RecordsHover">
                 <a class="portfolio-link" data-toggle="modal" href="#portfolioModal1" >
                     <div class="portfolio-hover">

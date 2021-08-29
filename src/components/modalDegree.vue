@@ -1,7 +1,8 @@
 <template>
+    
+    
     <!-- Modal 1 -->
     <!-- Year 1 semster 1 -->
-    
     <div class="portfolio-modal modal fade" id="portfolioModal1" tabindex="-1" role="dialog" aria-hidden="true">
       <div class="modal-dialog">
         <div class="modal-content">
@@ -99,11 +100,20 @@
                   
                   
                   <ul class="list-inline">
-                    <li>IN PROGRESS</li>
-                    <li>Expected time of completion: July 2021</li>
-                    
+                   <li>Mobile App Development 700 (79%)</li>
+                    <li>Cyber Security 700 (95%)</li>
+                    <li>IT Project Management 700 (94%)</li>
+                    <li>Programming 731 Java (96%)</li>
+                    <li>Programming 741 C# (86%)</li>
                   </ul>
-                  
+                  <a class="portfolio-link" data-toggle="modal" href="#portfolioModal29">
+                  <button class="btn btn-success" type="button">
+                    View Modules
+                  </button></a><br><br>
+                  <a href="../assets/results/year_3_sem_1.pdf" class="download" download>
+                  <button class="btn btn-download" type="button">
+                    Download Result
+                  </button></a><br><br>
                   <button class="btn btn-danger" data-dismiss="modal" type="button">
                     Close Result</button>
                     
@@ -199,37 +209,7 @@
 
 
 
-      <!-- Modal 6 -->
-      <!-- Year 3 semster 1-->
-    <div class="portfolio-modal modal fade" id="portfolioModal6" tabindex="-1" role="dialog" aria-hidden="true">
-      <div class="modal-dialog">
-        <div class="modal-content">
-          <div class="container">
-            <div class="row">
-              <div class="col-lg-8 mx-auto">
-                <div class="modal-body">
-                  <!-- Details Go Here -->
-                  <h2 class="display-2">Bachelor's degree of Science in Information Technology</h2>
-                  <p class="item-intro text-muted">Year:3 - Semester:1.</p>
-                  
-                  
-                  <ul class="list-inline">
-                    <li>IN PROGRESS</li>
-                    <li>Expected time of completion: December 2021</li>
-                    
-                  </ul>
-                  
-                  
-                  <button class="btn btn-danger" data-dismiss="modal" type="button">
-                    Close Result</button>
-                    
-                </div>
-              </div>
-            </div>
-          </div>
-        </div>
-      </div>
-    </div>
+      
 
           <!-- Modal 7 -->
       <!-- Year 3 semster 2-->
