@@ -10,13 +10,33 @@
         <div class="row">
           <div class="col-lg-12">
             <ul class="timeline">
+              
+              
+              <li class="timeline-inverted">
+                <div class="timeline-image">
+                  <img class="rounded-circle img-fluid" src="../assets/img/VrImg.jpg" alt="">
+                </div>
+                <div class="timeline-panel">
+                  <div class="timeline-heading">
+                    <h4>2021 - CURRENT</h4>
+                    <h4 class="subheading">Virtual Resource (Contractor)</h4>
+                  </div>
+                  <div class="timeline-body">
+                    <p class="text-muted">
+                      <a href="https://www.virtualresource.org/">https://www.virtualresource.org/</a><br>
+                     Contractor for Virtual Resource, working on the GSK project, as a Junior Workday integrations developer. In training of all the functional areas of Workday and data integrations. This role includes advanced Reports, calculated fields, EIB's, and workday studio. 
+                    </p>
+                  </div>
+                </div>
+              </li>
+              
               <li>
                 <div class="timeline-image">
                   <img class="rounded-circle img-fluid" src="../assets/img/mySHEQ.png" alt="">
                 </div>
                 <div class="timeline-panel">
                   <div class="timeline-heading">
-                    <h4>2020 - CURRENT</h4>
+                    <h4>2020 - 2021</h4>
                     <h4 class="subheading">mySHEQ.com (Part-Time)</h4>
                   </div>
                   <div class="timeline-body">
@@ -28,13 +48,14 @@
                   </div>
                 </div>
               </li>
+
               <li class="timeline-inverted">
                 <div class="timeline-image">
                   <img class="rounded-circle img-fluid" src="../assets/img/Umbane2.png" alt="">
                 </div>
                 <div class="timeline-panel">
                   <div class="timeline-heading">
-                    <h4>2012 - CURRENT</h4>
+                    <h4>2012 - 2021</h4>
                     <h4 class="subheading">Umbane Technology</h4>
                   </div>
                   <div class="timeline-body">
@@ -46,6 +67,7 @@
                   </div>
                 </div>
               </li>
+              
               <li>
                 <div class="timeline-image">
                   <img class="rounded-circle img-fluid" src="../assets/img/Voluntary3.png" alt="">
